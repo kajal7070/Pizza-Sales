@@ -1,7 +1,8 @@
 ### This project is aimed to analyze the data of Virat Kohli's performance in International matches
 
   <p align="left">
-  <img src="https://1drv.ms/i/s!Agxno_Actig2ikVJ4FJcK_E4IxBs?e=fpmBGs" width="450" alt="accessibility text">
+  <img src="![Pizza Sales Dashboard](https://github.com/kajal7070/Pizza-Sales/assets/149140012/79509ebb-afc6-4fe9-b7f2-ace0b372fba4)
+" width="450" alt="accessibility text">
 </p>
 
 ### Insights
