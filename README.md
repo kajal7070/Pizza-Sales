@@ -1,4 +1,4 @@
-### This project is aimed to analyze the data of Virat Kohli's performance in International matches
+### This project is aimed to analyze the data of Pizza Place Sales.
 
   <p align="left">
   
