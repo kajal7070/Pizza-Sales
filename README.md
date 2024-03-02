@@ -1,7 +1,7 @@
 ### This project is aimed to analyze the data of Virat Kohli's performance in International matches
 
   <p align="left">
-  <img src="https://www.stackumbrella.com/wp-content/uploads/2022/08/Feature-image-2782.jpg" width="450" alt="accessibility text">
+  <img src="https://1drv.ms/f/s!Agxno_Actig2ijUo5BLMH3-MsPfV?e=I0wjBf" width="450" alt="accessibility text">
 </p>
 
 ### Insights
